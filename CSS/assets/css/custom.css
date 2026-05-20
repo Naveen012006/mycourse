@@ -1,0 +1,64 @@
+
+* {
+  
+background-color:  rgb(248, 226, 186);
+}
+
+.f{
+background-color: rgb(252, 7, 7);
+
+}
+.s{
+    background-color: cyan;
+}
+
+.t{
+    background-color: blue;
+
+}
+.ft{
+background-color: tomato;
+}
+.fth{
+background-color: teal;
+
+
+}
+h1{
+    background-color: black;
+    color: white;
+}
+h3{
+
+    background-color: black;
+    color: white;
+}
+#p1{
+    background-color:violet;
+    color:blue;
+}
+#p2{
+    background-color:violet;
+    color:blue;
+}
+#p3{
+    background-color:violet;
+    color:blue;
+}
+#p4{
+    background-color:violet;
+    color:blue;
+
+}
+h2,h4{
+    background-color: rgb(245, 170, 170);
+    color: chartreuse;
+}
+div>p{
+    background-color:blue ;
+    color: white;
+}
+div h5{
+    background-color: skyblue;
+    color: black;
+}
