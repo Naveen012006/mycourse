@@ -1,0 +1,56 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing:border-box;
+
+}
+
+.parent{
+    background-color: black;
+    color: white;
+    height: 400;
+    display:flex;
+justify-content: space-around;
+align-items: center;
+margin-top: 30px;
+
+
+
+}
+.child-one{
+
+    background-color: tomato;
+    height: 200px;
+    width: 300px;
+    color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 4px 2px blueviolet;
+}
+
+.child-two{
+
+    background-color:blue;
+    height: 200px;
+    width: 300px;
+    color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 4px 2px blueviolet;
+
+}
+.child-three{
+     background-color:chartreuse;
+    height: 200px;
+    width: 300px;
+    color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 4px 2px blueviolet;
+}
